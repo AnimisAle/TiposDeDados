@@ -1,0 +1,15 @@
+C:\Users\55629\Desktop\TiposDeDadosC#\bin\Debug\net6.0\TiposDeDadosC#.exe
+C:\Users\55629\Desktop\TiposDeDadosC#\bin\Debug\net6.0\TiposDeDadosC#.deps.json
+C:\Users\55629\Desktop\TiposDeDadosC#\bin\Debug\net6.0\TiposDeDadosC#.runtimeconfig.json
+C:\Users\55629\Desktop\TiposDeDadosC#\bin\Debug\net6.0\TiposDeDadosC#.dll
+C:\Users\55629\Desktop\TiposDeDadosC#\bin\Debug\net6.0\ref\TiposDeDadosC#.dll
+C:\Users\55629\Desktop\TiposDeDadosC#\bin\Debug\net6.0\TiposDeDadosC#.pdb
+C:\Users\55629\Desktop\TiposDeDadosC#\obj\Debug\net6.0\TiposDeDadosC#.csproj.AssemblyReference.cache
+C:\Users\55629\Desktop\TiposDeDadosC#\obj\Debug\net6.0\TiposDeDadosC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55629\Desktop\TiposDeDadosC#\obj\Debug\net6.0\TiposDeDadosC#.AssemblyInfoInputs.cache
+C:\Users\55629\Desktop\TiposDeDadosC#\obj\Debug\net6.0\TiposDeDadosC#.AssemblyInfo.cs
+C:\Users\55629\Desktop\TiposDeDadosC#\obj\Debug\net6.0\TiposDeDadosC#.csproj.CoreCompileInputs.cache
+C:\Users\55629\Desktop\TiposDeDadosC#\obj\Debug\net6.0\TiposDeDadosC#.dll
+C:\Users\55629\Desktop\TiposDeDadosC#\obj\Debug\net6.0\ref\TiposDeDadosC#.dll
+C:\Users\55629\Desktop\TiposDeDadosC#\obj\Debug\net6.0\TiposDeDadosC#.pdb
+C:\Users\55629\Desktop\TiposDeDadosC#\obj\Debug\net6.0\TiposDeDadosC#.genruntimeconfig.cache
